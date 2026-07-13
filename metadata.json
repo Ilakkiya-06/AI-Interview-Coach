@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Coach",
+  "description": "Your personal AI companion for job interview preparation, offering mock interviews, high-thinking AI evaluations, and Google Meet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
